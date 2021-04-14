@@ -1,6 +1,8 @@
 set number
 set relativenumber
 set mouse=a
+set tabstop=2
 set term=xterm-256color
 set whichwrap=b,s,<,>,[,]
-set syntax=on
+
+syntax on
